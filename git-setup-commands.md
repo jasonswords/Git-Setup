@@ -83,11 +83,4 @@ Change remote URL`s from ssh to https
 ```bash
 git remote set-url origin http://github.com/user-name/repo-name.git
 ```
- 
-```python
-print("this is a test")
-```
-
-
-
 
