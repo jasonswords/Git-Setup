@@ -1,7 +1,7 @@
 # Git command-line setup
 
 Update system
-```bash
+```php
 sudo apt update && sudo apt upgrade
 ```
 
