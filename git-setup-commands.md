@@ -1,4 +1,4 @@
-#Git command-line setup
+# Git command-line setup
 
 Update system
 '''bash
@@ -44,7 +44,7 @@ Commit new file with message for reason of commit, update, minor changes etc
 git commit -m "This is a commit message"
 '''
 
-##Creating a new repository on github
+## Creating a new repository on github
 
 Upload file to github
 '''bash
@@ -52,7 +52,7 @@ git remote add origin http://github.com/account-name/repo-name
 git push -u origin master
 '''
 
-###Install hub for remote repository creation
+### Install hub for remote repository creation
 '''bash
 sudo snap install hub
 git config --global hub.protocol https
@@ -74,7 +74,7 @@ sudo rm ~/.config/hub
 hub create
 '''
 
-##Switching remote url's from ssh to https 
+## Switching remote url's from ssh to https 
 '''bash
 git remote -v
 '''
