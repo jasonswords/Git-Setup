@@ -1,7 +1,7 @@
 # Git command-line setup
 
 Update system
-```php
+```bash
 sudo apt update && sudo apt upgrade
 ```
 
@@ -84,7 +84,9 @@ Change remote URL`s from ssh to https
 git remote set-url origin http://github.com/user-name/repo-name.git
 ```
  
-
+```python
+print("this is a test")
+```
 
 
 
