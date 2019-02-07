@@ -19,6 +19,7 @@ Save configuration details of github account
 ```bash
 git config --gloabl user.name "name"
 git config --gloabl user.email "email"
+```
 
 Make a directory to work from
 ```bash
